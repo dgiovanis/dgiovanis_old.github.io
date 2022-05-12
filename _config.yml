@@ -61,6 +61,9 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+sass:
+  sass_dir: _sass
+  style: compressed
 
 plugins: ['jekyll/scholar']
 
