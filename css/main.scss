@@ -1,7 +1,7 @@
 ---
 ---
     
-@import "bootstrap";
+@import '{{ site.baseurl }}/bootstrap/bootstrap';
 
 /* Fluxbox: Added for publication page columns. */
 .flex-container {
